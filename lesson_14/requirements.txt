@@ -1,0 +1,9 @@
+cvxpy
+dlib
+matplotlib
+notebook
+numpy
+opencv-python
+scikit-image
+scikit-learn
+tensorflow[and-cuda]
